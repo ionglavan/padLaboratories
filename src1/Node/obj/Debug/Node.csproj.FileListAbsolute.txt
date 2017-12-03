@@ -1,0 +1,26 @@
+F:\Dev\Lab3\Node\bin\Debug\Node.exe.config
+F:\Dev\Lab3\Node\bin\Debug\Node.exe
+F:\Dev\Lab3\Node\bin\Debug\Node.pdb
+F:\Dev\Lab3\Node\bin\Debug\MyLibrary.dll
+F:\Dev\Lab3\Node\bin\Debug\MyLibrary.pdb
+F:\Dev\Lab3\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+F:\Dev\Lab3\Node\obj\Debug\Node.exe
+F:\Dev\Lab3\Node\obj\Debug\Node.pdb
+C:\Users\user\Desktop\pad radu\Lab3\Node\bin\Debug\Node.exe.config
+C:\Users\user\Desktop\pad radu\Lab3\Node\bin\Debug\Node.exe
+C:\Users\user\Desktop\pad radu\Lab3\Node\bin\Debug\Node.pdb
+C:\Users\user\Desktop\pad radu\Lab3\Node\bin\Debug\MyLibrary.dll
+C:\Users\user\Desktop\pad radu\Lab3\Node\bin\Debug\MyLibrary.pdb
+C:\Users\user\Desktop\pad radu\Lab3\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\pad radu\Lab3\Node\obj\Debug\Node.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\pad radu\Lab3\Node\obj\Debug\Node.exe
+C:\Users\user\Desktop\pad radu\Lab3\Node\obj\Debug\Node.pdb
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\bin\Debug\Node.exe.config
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\bin\Debug\Node.exe
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\bin\Debug\Node.pdb
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\bin\Debug\MyLibrary.dll
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\bin\Debug\MyLibrary.pdb
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\obj\Debug\Node.csprojResolveAssemblyReference.cache
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\obj\Debug\Node.csproj.CoreCompileInputs.cache
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\obj\Debug\Node.exe
+C:\Users\VipUser\Desktop\pad radu\Lab3\Node\obj\Debug\Node.pdb

@@ -1,0 +1,6 @@
+F:\Dev\Lab3\Empty1\bin\Debug\Empty1.exe.config
+F:\Dev\Lab3\Empty1\bin\Debug\Empty1.exe
+F:\Dev\Lab3\Empty1\bin\Debug\Empty1.pdb
+F:\Dev\Lab3\Empty1\obj\Debug\Empty1.csprojResolveAssemblyReference.cache
+F:\Dev\Lab3\Empty1\obj\Debug\Empty1.exe
+F:\Dev\Lab3\Empty1\obj\Debug\Empty1.pdb

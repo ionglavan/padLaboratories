@@ -1,0 +1,16 @@
+F:\Dev\Lab3\Client\bin\Debug\Client.exe.config
+F:\Dev\Lab3\Client\bin\Debug\Client.exe
+F:\Dev\Lab3\Client\bin\Debug\Client.pdb
+F:\Dev\Lab3\Client\bin\Debug\MyLibrary.dll
+F:\Dev\Lab3\Client\bin\Debug\MyLibrary.pdb
+F:\Dev\Lab3\Client\obj\Debug\Client.exe
+F:\Dev\Lab3\Client\obj\Debug\Client.pdb
+F:\Dev\Lab3\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Dev\Lab4\Client\bin\Debug\Client.exe.config
+F:\Dev\Lab4\Client\obj\Debug\Client.exe
+F:\Dev\Lab4\Client\obj\Debug\Client.pdb
+F:\Dev\Lab4\Client\bin\Debug\Client.exe
+F:\Dev\Lab4\Client\bin\Debug\Client.pdb
+F:\Dev\Lab4\Client\bin\Debug\MyLibrary.dll
+F:\Dev\Lab4\Client\bin\Debug\MyLibrary.pdb
+F:\Dev\Lab4\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
