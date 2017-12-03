@@ -1,8 +1,0 @@
-F:\Dev\Lab5Pad\Lab5Pad\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
-F:\Dev\Lab5Pad\Lab5Pad\obj\Debug\Lab5Pad.exe
-F:\Dev\Lab5Pad\Lab5Pad\bin\Debug\Lab5Pad.exe.config
-F:\Dev\Lab5Pad\Lab5Pad\bin\Debug\Lab5Pad.exe
-F:\Dev\Lab5Pad\Lab5Pad\bin\Debug\Lab5Pad.pdb
-F:\Dev\Lab5Pad\Lab5Pad\obj\Debug\Lab5Pad.pdb
-F:\Dev\Lab5Pad\Lab5Pad\bin\Debug\MyLibrary.dll
-F:\Dev\Lab5Pad\Lab5Pad\bin\Debug\MyLibrary.pdb

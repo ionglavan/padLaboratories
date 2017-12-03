@@ -1,0 +1,11 @@
+F:\Dev\Lab6\SmartProxy\bin\Debug\SmartProxy.exe.config
+F:\Dev\Lab6\SmartProxy\bin\Debug\SmartProxy.exe
+F:\Dev\Lab6\SmartProxy\bin\Debug\SmartProxy.pdb
+F:\Dev\Lab6\SmartProxy\bin\Debug\StackExchange.Redis.dll
+F:\Dev\Lab6\SmartProxy\bin\Debug\StackExchange.Redis.pdb
+F:\Dev\Lab6\SmartProxy\bin\Debug\StackExchange.Redis.xml
+F:\Dev\Lab6\SmartProxy\obj\Debug\SmartProxy.csprojResolveAssemblyReference.cache
+F:\Dev\Lab6\SmartProxy\obj\Debug\SmartProxy.exe
+F:\Dev\Lab6\SmartProxy\obj\Debug\SmartProxy.pdb
+F:\Dev\Lab6\SmartProxy\bin\Debug\MyLibrary.dll
+F:\Dev\Lab6\SmartProxy\bin\Debug\MyLibrary.pdb
