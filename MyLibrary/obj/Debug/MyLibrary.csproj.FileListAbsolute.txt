@@ -1,0 +1,5 @@
+F:\Dev\Lab5Pad\MyLibrary\bin\Debug\MyLibrary.dll
+F:\Dev\Lab5Pad\MyLibrary\bin\Debug\MyLibrary.pdb
+F:\Dev\Lab5Pad\MyLibrary\obj\Debug\MyLibrary.dll
+F:\Dev\Lab5Pad\MyLibrary\obj\Debug\MyLibrary.pdb
+F:\Dev\Lab5Pad\MyLibrary\obj\Debug\MyLibrary.csprojResolveAssemblyReference.cache

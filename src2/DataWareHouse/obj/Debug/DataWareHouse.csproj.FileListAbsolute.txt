@@ -1,8 +1,0 @@
-F:\Dev\Lab4\DataWareHouse\bin\Debug\DataWareHouse.exe.config
-F:\Dev\Lab4\DataWareHouse\bin\Debug\DataWareHouse.exe
-F:\Dev\Lab4\DataWareHouse\bin\Debug\DataWareHouse.pdb
-F:\Dev\Lab4\DataWareHouse\bin\Debug\MyLibrary.dll
-F:\Dev\Lab4\DataWareHouse\bin\Debug\MyLibrary.pdb
-F:\Dev\Lab4\DataWareHouse\obj\Debug\DataWareHouse.csprojResolveAssemblyReference.cache
-F:\Dev\Lab4\DataWareHouse\obj\Debug\DataWareHouse.exe
-F:\Dev\Lab4\DataWareHouse\obj\Debug\DataWareHouse.pdb

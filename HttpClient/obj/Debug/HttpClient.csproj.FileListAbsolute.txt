@@ -1,0 +1,17 @@
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\HttpClient.exe.config
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\HttpClient.exe
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\HttpClient.pdb
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\MyLibrary.dll
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\MyLibrary.pdb
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.csprojResolveAssemblyReference.cache
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.Form1.resources
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.Properties.Resources.resources
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.csproj.GenerateResource.Cache
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.exe
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.pdb
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\Cassandra.dll
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\LZ4.dll
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\Cassandra.xml
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\Newtonsoft.Json.dll
+F:\Dev\Lab5Pad\HttpClient\bin\Debug\Newtonsoft.Json.xml
+F:\Dev\Lab5Pad\HttpClient\obj\Debug\HttpClient.AddModifyForm.resources
