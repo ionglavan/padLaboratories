@@ -1,0 +1,17 @@
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\bin\Debug\Sender.exe.config
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\bin\Debug\Sender.exe
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\bin\Debug\Sender.pdb
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\obj\Debug\Sender.exe
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\obj\Debug\Sender.pdb
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\bin\Debug\ConnectionPlatform.dll
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\Sender\bin\Debug\ConnectionPlatform.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\bin\Debug\Sender.exe.config
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\bin\Debug\Sender.exe
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\bin\Debug\Sender.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\bin\Debug\ConnectionPlatform.dll
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\bin\Debug\ConnectionPlatform.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\obj\Debug\Sender.csprojResolveAssemblyReference.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\obj\Debug\Sender.csproj.CoreCompileInputs.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\obj\Debug\Sender.exe
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\Sender\obj\Debug\Sender.pdb

@@ -1,0 +1,17 @@
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\bin\Debug\ReceiverOne.exe.config
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\bin\Debug\ReceiverOne.exe
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\bin\Debug\ReceiverOne.pdb
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.csprojResolveAssemblyReference.cache
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.exe
+c:\users\radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.pdb
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\bin\Debug\ConnectionPlatform.dll
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\ReceiverOne\bin\Debug\ConnectionPlatform.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\bin\Debug\ReceiverOne.exe.config
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\bin\Debug\ReceiverOne.exe
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\bin\Debug\ReceiverOne.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\bin\Debug\ConnectionPlatform.dll
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\bin\Debug\ConnectionPlatform.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.csprojResolveAssemblyReference.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.csproj.CoreCompileInputs.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.exe
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\ReceiverOne\obj\Debug\ReceiverOne.pdb

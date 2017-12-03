@@ -1,0 +1,11 @@
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\SolutionLibrary\bin\Debug\ConnectionPlatform.dll
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\SolutionLibrary\bin\Debug\ConnectionPlatform.pdb
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.dll
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.pdb
+C:\Users\Radu\documents\visual studio 2013\Projects\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.csprojResolveAssemblyReference.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\SolutionLibrary\bin\Debug\ConnectionPlatform.dll
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\SolutionLibrary\bin\Debug\ConnectionPlatform.pdb
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.csprojResolveAssemblyReference.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.csproj.CoreCompileInputs.cache
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.dll
+C:\Users\VipUser\Desktop\pad radu\BrokerSolution\BrokerSolution\SolutionLibrary\obj\Debug\ConnectionPlatform.pdb
